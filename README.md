@@ -1,5 +1,5 @@
 SporeFi
-🚀 Introduction
+Introduction
 
 SporeFi is a Fullstack Web3 + AI application built on Rootstock (RSK). Our platform introduces an innovative yield tokenization protocol that allows users to separate their staked positions into Principal Tokens (PT) and Yield Tokens (YT). By integrating AI-powered strategies, we optimize yield management and trading strategies, enabling users to maximize their returns efficiently.
 
@@ -63,7 +63,7 @@ Yield Speculation: Traders can buy YT tokens to speculate on yield rates.
 
 PayPal USD Integration: Enables seamless off-ramping and cross-platform transfers.
 
-🤖 AI-Powered Yield Optimization
+ AI-Powered Yield Optimization
 
 Our AI-driven strategies enhance decision-making for staking, token splits, and trading strategies.
 
@@ -99,7 +99,7 @@ Risk Assessment: Ensures YT allocation does not exceed a certain volatility leve
 
 Portfolio Balance: Adjusts positions based on market conditions to minimize risk.
 
-✨ Example AI Strategy:
+ Example AI Strategy:
 
 LSTM predicts yield rate for the next 30 days.
 
@@ -107,7 +107,7 @@ PPO agent learns the best PT/YT split ratio (e.g., 70% PT, 30% YT).
 
 Risk Model ensures the YT portion stays below a volatility threshold.
 
-🔥 Installation & Usage
+ Installation & Usage
 1. Clone the Repository
  git clone https://github.com/your-repo/SporeFi.git
  cd SporeFi
@@ -133,7 +133,7 @@ Risk Model ensures the YT portion stays below a volatility threshold.
  npx hardhat test
  npx hardhat deploy --network rsk-testnet
 
-🚀 Future Enhancements
+Future Enhancements
 
 Cross-Chain Support: Expanding the protocol beyond Rootstock.
 
